@@ -1,0 +1,1 @@
+{\n  "name": "school-chat-server",\n  "version": "1.0.0",\n  "description": "Backend for School Chat application using Node.js and Express",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "owedamanik-tech",\n  "license": "ISC",\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}
